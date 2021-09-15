@@ -11,7 +11,7 @@ Why use McAvatar over others?
 - McAvatar is blazing fast. It offers instantaneous speeds so you won't have to worry about lag.
 - McAvatar is open-source, there is no weird stuff hidden in the code so you can relax.
 
-Please go to the next Page_ to continue.
+Please go to the next page_ to continue.
 
 
-.. _Page: http://www.python.org/
+.. _page: http://www.python.org/
