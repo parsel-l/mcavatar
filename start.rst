@@ -14,7 +14,7 @@ Second, import mcavatar.
 Here is an example code of mcavatar.
 
 .. code-block:: python
-# Imports the best minecraft skin asset library.
+``` # Imports the best minecraft skin asset library.
 import mcavatar
 
 # Warning! You have to know the basics of python to use this library!
@@ -22,5 +22,5 @@ userInput = input("Input Username Here: ")
 
 # We will use the uuid function of mcavatar and print the inputed UUID here.
 uuid = mcavatar.uuid(userInput)
-print(uuid)
+print(uuid)```
 
