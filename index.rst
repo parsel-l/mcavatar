@@ -11,9 +11,6 @@ Why use McAvatar over others?
 - McAvatar is blazing fast. It offers instantaneous speeds so you won't have to worry about lag.
 - McAvatar is open-source, there is no weird stuff hidden in the code so you can relax.
 
-Please scroll down to continue.
-
-
 
 ------------
  QuickStart
