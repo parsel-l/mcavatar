@@ -39,3 +39,5 @@ Here is an example code of mcavatar.
  uuid = mcavatar.uuid(userInput)
  print(uuid)
 
+
+**DOCS ARE WIP**
